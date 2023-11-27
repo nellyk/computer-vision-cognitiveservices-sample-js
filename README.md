@@ -11,6 +11,8 @@ Sample app using the Computer Vision SDK for Javascript. This sample app is a ve
 * Node.js version 16x or later.
 * Replace the environment variables `computerVisionKey` and `computerVisionEndPoint`  in `ImageAnalysis.js`  and `ImageRecognition.js` with the right values from the speech service created in the previous step.
 
+NB: The API might require applying for access to the Computer Vision Service. See https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/faq
+
 ## Quickstart
 
 ```bash
